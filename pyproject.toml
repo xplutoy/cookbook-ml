@@ -9,6 +9,7 @@ readme = "README.md"
 python = "^3.12"
 feature-engine = "^1.8.1"
 seaborn = "^0.13.2"
+pooch = "^1.8.2"
 
 
 [tool.poetry.group.dev.dependencies]
